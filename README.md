@@ -1,4 +1,6 @@
 # RU-01  
+![GitHub deployments](https://img.shields.io/github/deployments/ssjlee93/ru-01/github-pages)  
+https://ssjlee93.github.io/ru-01/  
 01 HTML CSS Git: Codə Rəfactor
 Codə rəfactor of an existing page  
 
